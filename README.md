@@ -77,13 +77,13 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 * JAVA 8 new features
 
-* Hashmap implementation,ArrayList implementation
+* HashMap implementation,ArrayList implementation
 
 * How to make a class immutable.
 
 * String pools,intern keyword,new() keyword
 
-* Linked list vs Array,Array vs ArrayLost,Set vs List vs Map,Iterator vs Enumeration.
+* Linked list vs Array,Array vs ArrayList,Set vs List vs Map,Iterator vs Enumeration.
 
 * How to compare two objects in Set?(hint : equals() and hashcode() overriding)
 
