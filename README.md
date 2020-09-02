@@ -199,7 +199,7 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 * Should we provide a context in presenter/Model? Answering yes/no is not enough. You have to provide a solution for it.
 
-* Why Schedulers and How Rxjava internally works with them? SusbcribeOn vs ObserveOn, Schedulers on which both of these work? .subscribe(new Subscriber…) vs .subscribe(new Observer…)
+* Why Schedulers and How RxJava internally works with them? SubscribeOn vs ObserveOn, Schedulers on which both of these work? .subscribe(new Subscriber…) vs .subscribe(new Observer…)
 
 * IOScheduler/new Thread Scheduler in RXJava
 
@@ -217,7 +217,7 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 * Why ConstraintLayout?Barriers vs Guidelines, Why Group/Chains?
 
-* Why do we prefer Framelayout for Fragments?
+* Why do we prefer FrameLayout for Fragments?
 
 * Why ANR?How to prevent it?
 
@@ -257,7 +257,7 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 * How to download files in parallel?
 
-* Why Realm?Realm Methods, Realm vs Sqlite.
+* Why Realm?Realm Methods, Realm vs SqLite.
 
 * How to handle different screen sizes/density/languages/orientation in android?
 
@@ -307,27 +307,27 @@ Also, you will restrict yourself to those answers only. Try and learn more deepl
 
 * Kotlin operators - apply, run, let, ?
 
-* Livedata postValue vs set
+* LiveData postValue vs set
 
-* Livedata vs ObservableField
+* LiveData vs ObservableField
 
 * ViewModelFactory
 
 * HashCode and Equals Implementation
 
-* Dagger - Component vs SubComponenets
+* Dagger - Component vs SubComponents
 
 * TDD and frameworks - if using , tell the challenges faced
 
 * GSON vs Jackson vs Moshi
 
-* MultiModule Benfeits
+* MultiModule Benefits
 
 * Android Bundle - and Dynamic Feature usage
 
 * Proguard vs R8
 
-* What is Scoped Storage and how tio implement?
+* What is Scoped Storage and how to implement?
 
 * Observable vs Completable vs Single
 
